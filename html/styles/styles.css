@@ -1,0 +1,74 @@
+﻿body {
+    font-family: Calibri, Arial;
+    background-color: #3a5774;
+    color: #ffeb75;
+}
+
+input[type=text] {
+    font-size: 30px;
+    width:120px;
+}
+
+input[type=button] {
+    font-weight: bold;
+    font-size: .4em;
+    background-color: #3a5774;
+    color: #ffeb75;
+    border-radius: 25px;
+    font-size:30px;
+}
+
+#DivSplash {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#DivIntro {
+    width: 96%;
+    height: 96%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #5f8fbd;
+    padding: 10px 10px 10px 20px;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#DivGame {
+    width: 300px;
+    height: 300px;
+    border: 2px black solid;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #5f8fbd;
+    background-image: url('../images/grid.png');
+}
+
+#DivMessage {
+    font-weight: bold;
+    text-align: center;
+    font-size:200%;
+}
+
+#ImgSplash {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.huge {
+    font-size: 46px;
+}
+
+.gameGrid {
+}
+
+.hidden {
+    display: none;
+}

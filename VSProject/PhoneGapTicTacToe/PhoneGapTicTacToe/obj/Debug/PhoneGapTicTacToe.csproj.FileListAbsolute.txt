@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\Visual Studio 2013\Projects\PhoneGapTicTacToe\PhoneGapTicTacToe\bin\PhoneGapTicTacToe.dll.config
+C:\Users\Sean\Documents\Visual Studio 2013\Projects\PhoneGapTicTacToe\PhoneGapTicTacToe\bin\PhoneGapTicTacToe.dll
+C:\Users\Sean\Documents\Visual Studio 2013\Projects\PhoneGapTicTacToe\PhoneGapTicTacToe\bin\PhoneGapTicTacToe.pdb
+C:\Users\Sean\Documents\Visual Studio 2013\Projects\PhoneGapTicTacToe\PhoneGapTicTacToe\obj\Debug\PhoneGapTicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2013\Projects\PhoneGapTicTacToe\PhoneGapTicTacToe\obj\Debug\PhoneGapTicTacToe.dll
+C:\Users\Sean\Documents\Visual Studio 2013\Projects\PhoneGapTicTacToe\PhoneGapTicTacToe\obj\Debug\PhoneGapTicTacToe.pdb
